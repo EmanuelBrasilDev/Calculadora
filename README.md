@@ -1,7 +1,7 @@
 # 🧮 Calculadora Simples
 
 Projeto de uma **Calculadora Simples** feita com **HTML, CSS e JavaScript**.  
-Este é o **3º projeto** da minha trilha de estudos, focado em praticar:
+Este é o **3º projeto** da minha trilha de estudos, focado em montar meu portfolio:
 
 - Manipulação do **DOM** com JavaScript  
 - Estruturação de página em **HTML**  
